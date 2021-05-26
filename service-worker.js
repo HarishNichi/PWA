@@ -1,4 +1,4 @@
-importScripts("/ExpenseReduction/precache-manifest.8f9e7541d02e4f3d6df75e0d6a99573c.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/PWA/precache-manifest.97ed04d46705809afdd2130823451e8a.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 /* eslint-disable prettier/prettier */
 /* eslint-disable no-undef */
